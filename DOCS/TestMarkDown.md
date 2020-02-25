@@ -13,3 +13,7 @@
 [link to site](www.dingopress.com)  
 This is plain text.   
 Another line of plain text. 
+> This is a blockquote.  
+' this is code '
+  
+  [Mark Down Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
